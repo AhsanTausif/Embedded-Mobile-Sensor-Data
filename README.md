@@ -26,19 +26,16 @@
 <p> If you use this dataset, please cite the following paper: </p>
 
 <div>
- <p> {
-      Author= {Samin Ahsan Tausif, Aysha Gazi Mouri, Ishfaq Rahman, Nilufar Hossain and H. M. Zabir Haque}
-      Title= {CrowdSensing: Assessment of Cognitive Fitness Using Machine Learning}
-      Publication Type= {Journal Article}
-      Country= {United States}
-      Year of Publication= {} (Accepted for Publication) (Nov' 2022)
-      Journal Name= {Journal of Advances in Information Technology}
-      ISSN= {1798-2340}
-      Volume= {}
-      Number= {}  * will be updated after the publication of the article 
-      Publisher= {Engineering and Technology Publishing}
-      DOI= {10.12720/jait} (Scopus Indexed)
-      * will be updated after the publication of the article
-}
- </p>
+ <p> Author= {Samin Ahsan Tausif, Aysha Gazi Mouri, Ishfaq Rahman, Nilufar Hossain and H. M. Zabir Haque} </p>
+ <p> Title= {CrowdSensing: Assessment of Cognitive Fitness Using Machine Learning}  </p>
+ <p> Publication Type= {Journal Article}  </p>
+ <p> Country= {United States}  </p>
+ <p> Year of Publication= {} (Accepted for Publication) (Nov' 2022)  </p>
+ <p> Journal Name= {Journal of Advances in Information Technology}  </p>
+ <p> ISSN= {1798-2340}  </p>
+ <p> Volume= {}  </p>
+ <p> Number= {}  * will be updated after the publication of the article </p>
+ <p> Publisher= {Engineering and Technology Publishing} </p>
+ <p> DOI= {10.12720/jait} (Scopus Indexed) </p>
+ <p> * will be updated after the publication of the article </p>
 </div>
